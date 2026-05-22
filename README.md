@@ -128,7 +128,6 @@ remaining inspectable at the level of individual kept and dropped facts.
 
 - [Project page](https://humem.ai/projects/kg-memory-transfer)
 - [Paper on arXiv](https://arxiv.org/abs/2605.22142)
-- [GitHub repository](https://github.com/humemai/kg-memory-transfer)
 - [RoomEnv-v3 / RoomKG benchmark](https://github.com/humemai/room-env)
 
 ## Cite our paper
