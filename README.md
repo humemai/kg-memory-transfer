@@ -6,7 +6,7 @@ Code for symbolic baselines and learned short-term-to-long-term memory transfer
 policies that operate in [RoomEnv-v3](https://github.com/humemai/room-env), the
 RoomKG benchmark.
 
-For the research overview, see the [project page](https://humem.ai/projects/kg-memory-transfer)
+For the research overview, see the [project page](https://humem.ai/research/kg-memory-transfer)
 or the paper on [arXiv](https://arxiv.org/abs/2605.22142).
 
 This README focuses on the code, experiment entry points, evaluation flow, and
@@ -126,7 +126,7 @@ remaining inspectable at the level of individual kept and dropped facts.
 
 ## Further reading
 
-- [Project page](https://humem.ai/projects/kg-memory-transfer)
+- [Project page](https://humem.ai/research/kg-memory-transfer)
 - [Paper on arXiv](https://arxiv.org/abs/2605.22142)
 - [RoomEnv-v3 / RoomKG benchmark](https://github.com/humemai/room-env)
 
